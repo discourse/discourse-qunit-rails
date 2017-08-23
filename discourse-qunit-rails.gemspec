@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "discourse-qunit-rails"
-  s.version     = "0.0.9"
+  s.version     = "0.0.10"
   s.authors     = ["Francesco Rodriguez", "Robin Ward"]
   s.email       = ["robin.ward@gmail.com"]
   s.homepage    = "https://github.com/discourse/discourse-qunit-rails"
